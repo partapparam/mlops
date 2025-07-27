@@ -17,7 +17,6 @@ build/
 *.zip
 *.log
 *.out
-*.csv
 *.tsv
 *.json
 *.yaml
